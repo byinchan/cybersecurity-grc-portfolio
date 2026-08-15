@@ -19,46 +19,46 @@ Eight interconnected projects demonstrate the progression from risk identificati
 
 ### 01 — Enterprise Cyber Risk Assessment
 
-**Frameworks:** ISO 31000 · NIST CSF 2.0
+- **Frameworks:** ISO 31000, NIST CSF 2.0
 
-**Key artifacts:** Enterprise Risk Assessment · Risk Assessment Report
+- **Key artifacts:** Risk Assessment, Report
 
 ### 02 — Risk Register & Treatment Plan
 
-**Frameworks:** ISO 31000 · NIST RMF
+- **Frameworks:** ISO 31000, NIST RMF
 
-**Key artifacts:** Risk Register · Risk Heat Map · Risk Treatment Plan · Report
+- **Key artifacts:** Risk Register & Treatment Plan, Risk Heat Map, Report
 
 ### 03 — Third-Party Risk Assessment
 
-**Frameworks:** Shared Assessments SIG Lite · NIST SP 800-161 Rev. 1
+- **Frameworks:** Shared Assessments SIG Lite, NIST SP 800-161 Rev. 1
 
-**Key artifacts:** Inherent Risk Assessment · Vendor Due Diligence Assessment · Report
+- **Key artifacts:** Inherent Risk Assessment, Vendor Due Diligence Assessment, Report
 
 ### 04 — Control Mapping & Framework Alignment
 
-**Frameworks:** NIST CSF 2.0 · ISO/IEC 27001:2022 · CIS Controls v8 · SOC 2 Trust Services Criteria
+- **Frameworks:** NIST CSF 2.0, ISO/IEC 27001:2022, CIS Controls v8, SOC 2 Trust Services Criteria
 
-**Key artifacts:** Control Mapping Matrix · Framework Alignment Report
+- **Key artifacts:** Control Mapping Matrix, Report
 
 ### 05 — Audit Coordination & Evidence Management
 
-**Framework:** SOC 2 Trust Services Criteria
+- **Framework:** SOC 2 Trust Services Criteria
 
-**Key artifacts:** PBC Audit Tracker · Audit Coordination Report
+- **Key artifacts:** PBC Audit Tracker, Report
 
 ### 06 — Business Impact Analysis
 
-**Frameworks:** NIST SP 800-34 · BCI Good Practice Guidelines
+- **Frameworks:** NIST SP 800-34, BCI Good Practice Guidelines
 
-**Key artifacts:** Business Impact Analysis · Stakeholder Workshop Summary · Report
+- **Key artifacts:** BIA, Stakeholder Workshop Summary, Report
 
 ### 07 — AI Governance Assessment
 
-**Frameworks:** ISO/IEC 42001 · NIST AI RMF · EU AI Act
+- **Frameworks:** ISO/IEC 42001, NIST AI RMF, EU AI Act
 
-**Key artifacts:** AI Risk & Impact Assessment · AI Acceptable Use Standard · Report
+- **Key artifacts:** AI Risk & Impact Assessment, AI Acceptable Use Standard, Report
 
 ### 08 — Executive Cyber Risk Report
 
-**Key artifact:** Executive Cyber Risk Report
+- **Key artifact:** Dashboard, Report
